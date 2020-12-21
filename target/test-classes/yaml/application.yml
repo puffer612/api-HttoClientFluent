@@ -1,0 +1,5 @@
+mysql:
+  driverName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://192.168.28.77:3306/cucumbers
+  username: root
+  password: 123456
